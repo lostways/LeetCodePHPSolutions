@@ -1,7 +1,7 @@
 <?php
 /**
- * Name: Add Two Numbers
- * URL: https://leetcode.com/problems/add-two-numbers/
+ * Name: Longest Substring Without Repeating Characters
+ * URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 namespace App\LeetCode\LongestSubstringWithoutRepeatingCharacters;
 
