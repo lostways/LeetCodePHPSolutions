@@ -1,8 +1,12 @@
 <?php
 namespace App\LeetCode\AddTwoNumbers;
 
-class ListNode {
+class ListNode
+{
     public $val = 0;
     public $next = null;
-    function __construct($val) { $this->val = $val; }
+    function __construct($val)
+    {
+        $this->val = $val;
+    }
 }
